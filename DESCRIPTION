@@ -1,0 +1,18 @@
+Package: xKO
+Title: Expected Knockout
+Version: 0.0.0.9000
+Authors@R: 
+    person("Thomas", "Siskos", , "thomas.siskos91@gmail.com", role = c("aut", "cre"))
+Description: The full power of statistical methods in the world of boxing.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    dplyr,
+    here,
+    stringr,
+    tidyr
+Depends: 
+    R (>= 3.5)
+LazyData: true
