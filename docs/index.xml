@@ -5,54 +5,37 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<title>Expected Knockout</title>
+<link>https://thsis.github.io/xKO/</link>
+<atom:link href="https://thsis.github.io/xKO/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog about statistical methods and boxing</description>
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Sun, 15 Feb 2026 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <title>Beating the Bookie: Are Boxing Odds Efficient?</title>
+  <dc:creator>Thomas Siskos</dc:creator>
+  <link>https://thsis.github.io/xKO/posts/beating-the-bookie/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
+<p>This post is still under construction.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://thsis.github.io/xKO/posts/beating-the-bookie/under-construction.png" class="img-fluid figure-img"></p>
+<figcaption>Ronald Fisher and Thomas Bayes watching a boxer on a construction site</figcaption>
+</figure>
+</div>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
+  <category>boxing</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://thsis.github.io/xKO/posts/beating-the-bookie/</guid>
   <pubDate>Sun, 15 Feb 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Thu, 12 Feb 2026 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

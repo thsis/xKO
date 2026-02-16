@@ -3,16 +3,14 @@ project:
   output-dir: ../docs
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "blog"
+  description: "A blog about statistical methods and boxing"
+  site-url: https://thsis.github.io/xKO/
+  title: "Expected Knockout"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/thsis
 format:
   html:
     theme:

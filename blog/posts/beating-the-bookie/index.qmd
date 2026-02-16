@@ -1,0 +1,10 @@
+---
+title: "Beating the Bookie: Are Boxing Odds Efficient?"
+author: "Thomas Siskos"
+date: "2026-02-16"
+categories: [boxing, analysis]
+---
+
+This post is still under construction.
+
+![Ronald Fisher and Thomas Bayes watching a boxer on a construction site](under-construction.png)

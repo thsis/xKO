@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2026-02-16T18:58:05.331Z</lastmod>
+    <loc>https://thsis.github.io/xKO/posts/beating-the-bookie/index.html</loc>
+    <lastmod>2026-02-16T20:02:07.814Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-02-16T18:58:05.330Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
+    <loc>https://thsis.github.io/xKO/about.html</loc>
     <lastmod>2026-02-16T18:59:10.115Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2026-02-16T18:58:05.335Z</lastmod>
+    <loc>https://thsis.github.io/xKO/index.html</loc>
+    <lastmod>2026-02-16T18:58:05.330Z</lastmod>
   </url>
 </urlset>

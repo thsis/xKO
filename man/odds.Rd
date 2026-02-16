@@ -7,7 +7,8 @@
 \format{
 \subsection{\code{odds}}{
 
-A data frame with 4162 rows and 16 columns:
+A data frame containing winning odds for different fights with different bookmakers with 4162
+rows and 16 columns:
 \describe{
 \item{source}{Original Url}
 \item{scheduled_at}{Scheduled time of the fight}
