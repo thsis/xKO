@@ -3,6 +3,7 @@ title: "Beating the Bookie: Are Boxing Odds Efficient?"
 author: "Thomas Siskos"
 date: "2026-02-16"
 categories: [boxing, analysis]
+image: "under-construction-small.png"
 ---
 
 This post is still under construction.
