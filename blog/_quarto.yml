@@ -5,7 +5,7 @@ project:
 website:
   description: "A blog about statistical methods and boxing"
   site-url: https://thsis.github.io/xKO/
-  title: "Expected Knockout"
+  title: "xKO"
   navbar:
     right:
       - about.qmd
