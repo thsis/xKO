@@ -33,7 +33,6 @@ events <- fights.raw |>
   ) |>
   distinct()
 
-
 fighter_1 <- fights.raw |>
   mutate(
     fighter_1_opponent_height = fighter_2_height_cm,
@@ -97,7 +96,8 @@ fighters <- bind_rows(fighter_1, fighter_2) |>
 
 
 fights <- events |>
-  left_join(fighters, by = "fight_id")
+  left_join(fighters, by = "fight_id") |>
+  select(-fight_id)
 
 
 usethis::use_data(fights, overwrite = TRUE)
