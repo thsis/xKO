@@ -22,5 +22,7 @@
 #'         either \code{TRUE} or \code{FALSE} indicating which athlete won the fight or if it ended
 #'         in a draw}
 #'     \item{bet_type}{Type of bet}
+#'     \item{vig}{Vigorish, i.e. the bookmaker's expected profit/margin}
+#'     \item{probability_fighter_1_wins, probability_fighter_2_wins}{Probabilities estimated by the bookmaker, that a fighter wins, without vigorish}
 #' }
 "odds"

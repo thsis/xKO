@@ -4,7 +4,7 @@
     "href": "posts/beating-the-bookie/index.html",
     "title": "Beating the Bookie: Are Boxing Odds Efficient?",
     "section": "",
-    "text": "This post is still under construction.\n\n\n\nRonald Fisher and Thomas Bayes watching a boxer on a construction site"
+    "text": "WHY DO THIS?? –&gt; for the traditional hunt for money, of course!"
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,33 @@
     "title": "Expected Knockout",
     "section": "",
     "text": "Beating the Bookie: Are Boxing Odds Efficient?\n\n\n\nboxing\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 16, 2026\n\n\nThomas Siskos\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/beating-the-bookie/index.html#what-is-betting",
+    "href": "posts/beating-the-bookie/index.html#what-is-betting",
+    "title": "Beating the Bookie: Are Boxing Odds Efficient?",
+    "section": "What is Betting?",
+    "text": "What is Betting?\nfigure: vig-vs-odds / vig-dist / odds-dist\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "posts/beating-the-bookie/index.html#what-is-efficient",
+    "href": "posts/beating-the-bookie/index.html#what-is-efficient",
+    "title": "Beating the Bookie: Are Boxing Odds Efficient?",
+    "section": "What is “Efficient”?",
+    "text": "What is “Efficient”?"
+  },
+  {
+    "objectID": "posts/beating-the-bookie/index.html#what-is-the-data",
+    "href": "posts/beating-the-bookie/index.html#what-is-the-data",
+    "title": "Beating the Bookie: Are Boxing Odds Efficient?",
+    "section": "What is the Data?",
+    "text": "What is the Data?\nfigure: observed-vs-implied-probability"
+  },
+  {
+    "objectID": "posts/beating-the-bookie/index.html#what-is-to-be-done",
+    "href": "posts/beating-the-bookie/index.html#what-is-to-be-done",
+    "title": "Beating the Bookie: Are Boxing Odds Efficient?",
+    "section": "What is to be Done?",
+    "text": "What is to be Done?"
   }
 ]

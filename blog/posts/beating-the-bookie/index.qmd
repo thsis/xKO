@@ -4,8 +4,42 @@ author: "Thomas Siskos"
 date: "2026-02-16"
 categories: [boxing, analysis]
 image: "under-construction-small.png"
+echo: false
 ---
 
-This post is still under construction.
+```{r setup}
+#| include: false
+library(xKO)
+library(dplyr)
+library(ggplot2)
+library(ggiraph)
 
-![Ronald Fisher and Thomas Bayes watching a boxer on a construction site](under-construction.png)
+data(odds)
+```
+
+WHY DO THIS?? --> for the traditional hunt for money, of course!
+
+## What is Betting?
+
+figure: vig-vs-odds / vig-dist / odds-dist
+
+```{r fig-vig-vs-odds}
+p1 <- odds |> 
+    ggplot(
+        aes(
+            decimal_odds_fighter_1, 
+            decimal_odds_fighter_2, 
+            size = vig, 
+            color = bookmaker)) +
+    geom_point_interactive(aes(tooltip = bookmaker, data_id = source))
+
+girafe(p1)
+```
+
+## What is "Efficient"?
+
+## What is the Data?
+
+figure: observed-vs-implied-probability
+
+## What is to be Done?
